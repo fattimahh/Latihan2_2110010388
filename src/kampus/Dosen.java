@@ -16,5 +16,11 @@ public class Dosen {
     public double setNidn() {
         return Nidn;
     }
+    public double setNama() {
+        
+    }
     
+    public double setMataKuliah() {
+        
+    }
 }
